@@ -1,14 +1,14 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: Nikhil Raj
+- University Roll No.: 1900290310091
+- Branch: ECE
+- Section: B
+- Preferred Programming Language: Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [Nikhil_Raj](https://leetcode.com/chauhansinghnikhil54/)
+- HackerRank: [Nikhil_Raj](https://www.hackerrank.com/chauhansinghnik1)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
